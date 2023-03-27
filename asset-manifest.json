@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MayaSatishRao/spin-the-wheel/static/css/main.c84e2179.css",
+    "main.js": "/MayaSatishRao/spin-the-wheel/static/js/main.db99b4a1.js",
+    "static/media/spin-wheel.png": "/MayaSatishRao/spin-the-wheel/static/media/spin-wheel.fc8cb5f57a79b963b139.png",
+    "static/media/wheel1.png": "/MayaSatishRao/spin-the-wheel/static/media/wheel1.0dbb6e5799b915f68c29.png",
+    "static/media/top-1.png": "/MayaSatishRao/spin-the-wheel/static/media/top-1.a2822b89080ff86ac79f.png",
+    "static/media/bottom-1.png": "/MayaSatishRao/spin-the-wheel/static/media/bottom-1.08be9d3e378a45c1dbc5.png",
+    "static/media/top-2.png": "/MayaSatishRao/spin-the-wheel/static/media/top-2.9a8b090aa1b946b8cf9c.png",
+    "static/media/bottom-2.png": "/MayaSatishRao/spin-the-wheel/static/media/bottom-2.569a1ec13dfa28eaf209.png",
+    "index.html": "/MayaSatishRao/spin-the-wheel/index.html",
+    "main.c84e2179.css.map": "/MayaSatishRao/spin-the-wheel/static/css/main.c84e2179.css.map",
+    "main.db99b4a1.js.map": "/MayaSatishRao/spin-the-wheel/static/js/main.db99b4a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c84e2179.css",
+    "static/js/main.db99b4a1.js"
+  ]
+}
